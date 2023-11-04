@@ -1,0 +1,16 @@
+>> Function quests (Mostly Using recursion):
+questF01.c = WAP to make a function to calculate the combination of given value of n and r.
+questF02.c = WAP to print pascal triangle using functions.
+questF03.c = WAP to print no. of element of fibonacci series for n terms.
+questF04.c = WAP to print no. from 1 to n in increasing order.
+questF05.c = WAP to print no. from 1 to n in decreasing order.
+questF06.c = WAP to print sum form 1 to n.
+questF07.c = WAP to calculate the a^b (a reaise to the power b).
+questF08.c = WAP to find the nth fibonacci number.
+questF09.c = WAP for stair case (Max 2 Jumps).
+questF10.c = WAP for stair case (Max 3 Jumps).
+questF11.c = WAP to calculate a raised to the power b.
+questF12.c = WAP for Maze Path (also known as Grid) (Condition : One Step at a time, can only mave Right and Down).
+questF13.c = This question is basically used to clear the concept of recursion (This can be very clear by trees).
+questF14.c = WAP to print zig-zag (As if Input=1 Output=111, Input=2 Output=2112112, Input=3 Output=321112111232111211123), this is the simple application of the PreInPost concept.
+questF15.c = Program to print minimum steps required to solve a Tower Of Hanoi.**
