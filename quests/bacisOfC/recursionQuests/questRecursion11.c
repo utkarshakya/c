@@ -1,11 +1,13 @@
 // for question see questRecursion.txt file.
 
 #include <stdio.h>
+
+// This one is effective solution due to its O(log(b)) time complexcity.
 int power(int a, int b){
     if(b==0) return 1;
     int t = power(a, b/2);
-    if(b%2==0) return t*t;
-    else return t*t*a;
+    if(b%2==0) return t*t; // if power is even
+    else return t*t*a; // if power is odd
 }
 int main(){
     int a, b;
