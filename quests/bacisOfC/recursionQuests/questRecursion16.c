@@ -7,17 +7,15 @@ int max(int a, int b){
     else return a;
 }
 
-int maxInArray(int arr[], int m, int index){
-    if(index == 0) return max(arr[0], m);
-    m = max(arr[index], maxInArray(arr, m, index-1));
-    return m;
+int maxInArray(int arr[], int index){
+    if(index == 0) return arr[0];
+    return max(arr[index], maxInArray(arr, index-1));
 }
 
 int main(){
-    int arr[] = {3,6,2,4,7,19};
+    int arr[] = {31,63,23,4,-327,19,4,5,343,5,3};
     int size = sizeof(arr)/sizeof(arr[0]);
     int index = size-1;
-    int m = arr[index];
-    printf("The Maximum Number = %d", maxInArray(arr, m, index));
+    printf("The Maximum Number = %d", maxInArray(arr, index));
     return 0;
 }
