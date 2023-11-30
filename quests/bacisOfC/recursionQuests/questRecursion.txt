@@ -16,6 +16,6 @@ questRecursion13.c = This question is basically used to clear the concept of rec
 questRecursion14.c = WAP to print zig-zag (As if Input=1 Output=111, Input=2 Output=2112112, Input=3 Output=321112111232111211123), this is the simple application of the PreInPost concept.
 questRecursion15.c = WAP for tower of hanoi.
 questRecursion16.c = Recursion With Arrays.
-questRecursion17.c = 
+questRecursion17.c = WAP to find the sum of values of an array of integers.
 questRecursion18.c = 
 questRecursion19.c =  
