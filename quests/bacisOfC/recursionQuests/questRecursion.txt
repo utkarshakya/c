@@ -17,5 +17,4 @@ questRecursion14.c = WAP to print zig-zag (As if Input=1 Output=111, Input=2 Out
 questRecursion15.c = WAP for tower of hanoi.
 questRecursion16.c = Recursion With Arrays.
 questRecursion17.c = WAP to find the sum of values of an array of integers.
-questRecursion18.c = WAP to remove all the occurrences of a string s = "antiMatter".
-questRecursion19.c =  
+questRecursion18.c =  
