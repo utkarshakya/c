@@ -49,8 +49,8 @@ int main(){
     phoneU1.price = 24999;
     strcpy(phoneU1.brandName, "Motorola");
     strcpy(phoneU1.smartphoneName, "Moto Edge 40 Neo");
-    // Now since the smartphoneName[30] has the max size, the size of the union is also 30 and since I am 
-    // add smartphoneName in the last it overwrite the privious data, therefore at last in the union only name
+    // Now since the smartphoneName[30] has the max size, the size of the union is also 30 and since I added
+    // smartphoneName in the last it overwrite the privious data, therefore at last in the union only name
     // is stored and while printing you can see the same results. This is Union.
     
 
