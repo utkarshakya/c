@@ -98,3 +98,9 @@ questPattern18.c = Print the pattern given below for n no. of inputs, below give
 4 3 2 2 2 3 4
 4 3 3 3 3 3 4
 4 4 4 4 4 4 4
+questPattern19.c = Print the pattern given below for n no. of inputs, below given for n = 5. (OP) {This is also know as Spiral Pattern}
+1 2 3 4 5
+16 17 18 19 6
+15 24 25 20 7
+14 23 22 21 8
+13 12 11 10 9
